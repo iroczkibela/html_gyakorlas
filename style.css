@@ -1,0 +1,16 @@
+body {
+    font-family: 'Sen', sans-serif;
+    font-size: 30px;
+
+}
+
+a {
+    color: green;
+}
+
+a:hover {
+    cursor: pointer;
+    text-decoration: none;
+    color: lime;
+}
+
